@@ -15,7 +15,11 @@
 <img align="center" alt="Bootstrap" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;</a>
 <img align="center" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />&nbsp;&nbsp;</a>
 
-## Projects and My Role in Them
+## My Projects
+### Portfolio Website
+I'm currently developing a portfolio website that uses a CI/CD pipeline using Python and a Flask framework that will eventually host all of the links to my various projects as well as showing what I'm able to do both frontend and backend. Currently this website is not deployed but I do plan on having it public within the end of the week.
+
+## Other Projects and My Role in Them
 ### New Reign Roleplay
 Having a look on my profile will reveal that I'm in the New Reign Roleplay organization, which is a group of friends who are developing custom content for a modified Grand Theft Auto 5 server fitted for a roleplay community. This is a passion project of mine because it involves working behind a custom framework and learning the ins-and-outs of said framework. My role on this project is to learn from the lead developer and use what is taught to branch off and create my own custom content. As of now, I have created a customized hunting script that handles the player's inventory, checks multiple items before, during and after the "job" begins.
 ### Groove
