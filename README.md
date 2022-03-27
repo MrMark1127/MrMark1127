@@ -2,7 +2,7 @@
 👋 Hi, I’m @MrMark1127, but I normally go by Mark!
 - 👀 I’m currently employed as a Technical Service Desk Analyst who is interested in learning full-stack web development with a focus on integrating Python backend code.
 - 🌱 My current endevour includes my working in Python with Flask along the use of a RESTful API for a custom music discovery application.
-- 📫 How to reach me ...
+- 📫 How to reach me ... If you've reached me via resume, my contact information can be found there.
 
 ## Languages & Tools
 <img align="center" alt="Python" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/>&nbsp;&nbsp;</a>
