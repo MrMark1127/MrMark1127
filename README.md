@@ -1,7 +1,7 @@
 # MrMark1127
 👋 Hi, I’m @MrMark1127, but I normally go by Mark!
 - 👀 I’m currently employed as a Technical Service Desk Analyst who is interested in learning full-stack web development with a focus on integrating Python backend code.
-- 🌱 My current endevour includes my working in Python with Flask along the use of a RESTful API for a custom music discovery application.
+- 🌱 My current endevour includes my working in Python with Flask along the use of a RESTful API for a custom music discovery application. On top of this, I'm really enjoying learning fullstack web development. I'm more familiar with backend development so I've shifted my focus towards really understanding JS based front-end development.
 - 📫 How to reach me ... If you've reached me via resume, my contact information can be found there.
 
 ## Languages & Tools
