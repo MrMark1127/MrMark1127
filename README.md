@@ -22,9 +22,10 @@ I'm currently developing a portfolio website that uses a CI/CD pipeline using Py
 ## Other Projects and My Role in Them
 ### New Reign Roleplay
 Having a look on my profile will reveal that I'm in the New Reign Roleplay organization, which is a group of friends who are developing custom content for a modified Grand Theft Auto 5 server fitted for a roleplay community. This is a passion project of mine because it involves working behind a custom framework and learning the ins-and-outs of said framework. My role on this project is to learn from the lead developer and use what is taught to branch off and create my own custom content. As of now, I have created a customized hunting script that handles the player's inventory, checks multiple items before, during and after the "job" begins.
-
+<!---
 ## GitHub Activity
-<a><img height="137px" src="https://github-readme-stats.vercel.app/api?username=mrmark1127&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=default" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmark1127&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&theme=default" /></a>
+<a><img height="137px" src="https://github-readme-stats.vercel.app/api?username=mrmark1127&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=default" /><!-- wi*quL3fcV -->
+<!---<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmark1127&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&theme=default" /></a>--->
 <!---
 MrMark1127/MrMark1127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
