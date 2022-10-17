@@ -17,7 +17,9 @@
 
 ## My Projects
 ### Portfolio Website
-I'm currently developing a portfolio website that uses a CI/CD pipeline using Python and a Flask framework that will eventually host all of the links to my various projects as well as showing what I'm able to do both frontend and backend. Currently this website is not deployed but I do plan on having it public within the end of the week.
+I am actively developing a website that will host my resume and projects alike but instead of developing it in Flask I have decided to remake the website entirely with Tailwinds and React, so in the meantime please feel free to have a look at my most recent project! This is a CSS/HTML based website with full responsiveness.
+
+https://mrmark1127.github.io/tinDog
 
 ## Other Projects and My Role in Them
 ### New Reign Roleplay
