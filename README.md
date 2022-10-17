@@ -17,8 +17,10 @@
 
 ## My Projects
 ### Portfolio Website
-I am actively developing a website that will host my resume and projects alike but instead of developing it in Flask I have decided to remake the website entirely with Tailwinds and React, so in the meantime please feel free to have a look at my most recent project! This is a CSS/HTML based website with full responsiveness.
+I am actively developing a website that will host my resume and projects alike but instead of developing it in Flask I have decided to remake the website entirely with Tailwinds and React, so in the meantime please feel free to have a look at my most recent project below!
 
+### Latest Project
+This is an application advertisement website based on Tinder, but for dogs developed with full responsiveness for all available viewports.
 https://mrmark1127.github.io/tinDog
 
 ## Other Projects and My Role in Them
