@@ -14,6 +14,8 @@
 <img align="center" alt="Trello" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />&nbsp;&nbsp;</a>
 <img align="center" alt="Bootstrap" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;</a>
 <img align="center" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />&nbsp;&nbsp;</a>
+
 
 ## My Projects
 ### Portfolio Website
