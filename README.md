@@ -21,9 +21,13 @@
 ### Portfolio Website
 I am actively developing a website that will host my resume and projects alike but instead of developing it in Flask I have decided to remake the website entirely with Tailwinds and React, so in the meantime please feel free to have a look at my most recent project below!
 
-### Latest Project
+### Latest Projects
+### tinDog
 This is an application advertisement website based on Tinder, but for dogs developed with full responsiveness for all available viewports.
 https://mrmark1127.github.io/tinDog
+### Drum-Kit
+This was just a fun javascript project to manipualte elements and practice with event listeners to create a neat online drum kit you can use by clicking the boxes or pressing the coordinated keys.
+https://mrmark1127.github.io/Drum-Kit/
 
 ## Other Projects and My Role in Them
 ### New Reign Roleplay
