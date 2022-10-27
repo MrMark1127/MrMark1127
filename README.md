@@ -23,13 +23,13 @@ I am actively developing a website that will host my resume and projects alike b
 
 ### Latest Projects
 
-This is an application advertisement website based on Tinder, but for dogs developed with full responsiveness for all available viewports.
+This is an application advertisement website based on Tinder, but for dogs developed with full responsiveness for all available viewports.  
 https://mrmark1127.github.io/tinDog
 
-This was just a fun javascript project to manipualte elements and practice with event listeners to create a neat online drum kit you can use by clicking the boxes or pressing the coordinated keys.
+This was just a fun javascript project to manipualte elements and practice with event listeners to create a neat online drum kit you can use by clicking the boxes or pressing the coordinated keys.  
 https://mrmark1127.github.io/Drum-Kit/
 
-A simple project messing around with logic of mini-games to implement into the FiveM server I've been developing for. The game is Simon, a color flashes, hit the color and move on to the next level then another color will flash and you must remember the previous pattern and click the new additional color as well.
+A simple project messing around with logic of mini-games to implement into the FiveM server I've been developing for. The game is Simon, a color flashes, hit the color and move on to the next level then another color will flash and you must remember the previous pattern and click the new additional color as well.  
 https://mrmark1127.github.io/Simon-Game/
 
 ## Other Projects and My Role in Them
