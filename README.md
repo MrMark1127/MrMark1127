@@ -29,6 +29,9 @@ https://mrmark1127.github.io/tinDog
 This was just a fun javascript project to manipualte elements and practice with event listeners to create a neat online drum kit you can use by clicking the boxes or pressing the coordinated keys.
 https://mrmark1127.github.io/Drum-Kit/
 
+A simple project messing around with logic of mini-games to implement into the FiveM server I've been developing for. The game is Simon, a color flashes, hit the color and move on to the next level then another color will flash and you must remember the previous pattern and click the new additional color as well.
+https://mrmark1127.github.io/Simon-Game/
+
 ## Other Projects and My Role in Them
 ### New Reign Roleplay
 Having a look on my profile will reveal that I'm in the New Reign Roleplay organization, which is a group of friends who are developing custom content for a modified Grand Theft Auto 5 server fitted for a roleplay community. This is a passion project of mine because it involves working behind a custom framework and learning the ins-and-outs of said framework. My role on this project is to learn from the lead developer and use what is taught to branch off and create my own custom content. As of now, I have created a customized hunting script that handles the player's inventory, checks multiple items before, during and after the "job" begins.
