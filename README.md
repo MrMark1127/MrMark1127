@@ -5,21 +5,21 @@
 - 📫 How to reach me ... If you've reached me via resume, my contact information can be found there.
 
 ## Languages & Tools
-<img align="center" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="jQuery" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="NodeJS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="ExpressJS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp;&nbsp;</a> 
-<img align="center" alt="JavaScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;</a>
-<img align="center" alt="Python" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/>&nbsp;&nbsp;</a>
-<img align="center" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="GitHub" width="36px" src="https://www.iconninja.com/files/604/580/1001/github-development-code-coding-program-programming-icon.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="Flask" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="Trello" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="Bootstrap" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="HTML5" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="React" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="jQuery" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="CSS3" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="NodeJS" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="ExpressJS" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="MongoDB" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp;&nbsp;</a> 
+<img align="center" alt="JavaScript" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;</a>
+<img align="center" alt="Python" width="43px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/>&nbsp;&nbsp;</a>
+<img align="center" alt="git" width="43px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="GitHub" width="43px" src="https://www.iconninja.com/files/604/580/1001/github-development-code-coding-program-programming-icon.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="Flask" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="Java" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="Trello" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="Bootstrap" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;</a>
 
 ## My Projects
 ### Portfolio Website
