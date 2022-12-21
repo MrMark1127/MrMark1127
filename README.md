@@ -23,7 +23,8 @@
 
 ## My Projects
 ### Portfolio Website
-I am actively developing a website that will host my resume and projects alike but instead of developing it in Flask I have decided to remake the website entirely with Tailwinds and React, so in the meantime please feel free to have a look at my most recent project below!
+I am actively developing a website that will host my resume and projects alike but instead of developing it in Flask I have decided to remake the website entirely with Tailwinds and React, so in the meantime please feel free to have a look at my most recent project below!  
+https://mrmark1127.github.io/Mark-Portfolio/
 
 ### Latest Projects
 
