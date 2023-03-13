@@ -27,6 +27,8 @@ I am actively developing a website that will host my resume and projects alike b
 https://mrmark1127.github.io/Mark-Portfolio/
 
 ### Latest Projects
+One of my most recent peojects would be the crafting menu @Mkeefeus and I built for our FiveM Roleplay Server, New Reign Roleplay. This menu takes a UI and communicates with a LUA backend to create items in the game based on the player's current inventory. This is the web-only version with an inventory pre-set stored in the assets folder. Red text means the player does not have enough items in their inventory.
+https://mrmark1127.github.io/nrrp-crafting
 
 This is an application advertisement website based on Tinder, but for dogs developed with full responsiveness for all available viewports.  
 https://mrmark1127.github.io/tinDog
