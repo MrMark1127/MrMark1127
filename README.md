@@ -13,13 +13,20 @@
 <img align="center" alt="ExpressJS" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />&nbsp;&nbsp;</a>
 <img align="center" alt="MongoDB" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp;&nbsp;</a> 
 <img align="center" alt="JavaScript" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;</a>
-<img align="center" alt="Python" width="43px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/>&nbsp;&nbsp;</a>
+<img align="center" alt="Jira" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="PhP" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="WordPress" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="WooCommerce" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="MySQL" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="Trello" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="Bootstrap" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;</a>
 <img align="center" alt="git" width="43px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />&nbsp;&nbsp;</a>
 <img align="center" alt="GitHub" width="43px" src="https://www.iconninja.com/files/604/580/1001/github-development-code-coding-program-programming-icon.svg" />&nbsp;&nbsp;</a>
 <img align="center" alt="Flask" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="Python" width="43px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/>&nbsp;&nbsp;</a>
 <img align="center" alt="Java" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="Trello" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="Bootstrap" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;</a>
+
+          
 
 # Portfolio Website
 I am actively developing a website that will host my resume and projects alike but instead of developing it in Flask I have decided to remake the website entirely with Tailwinds and React, so in the meantime please feel free to have a look at my most recent project below!  
