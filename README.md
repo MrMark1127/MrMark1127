@@ -22,7 +22,7 @@
 <img align="center" alt="Bootstrap" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;</a>
 
 ## My Projects
-### Portfolio Website
+# Portfolio Website
 I am actively developing a website that will host my resume and projects alike but instead of developing it in Flask I have decided to remake the website entirely with Tailwinds and React, so in the meantime please feel free to have a look at my most recent project below!  
 https://mrmark1127.github.io/Mark-Portfolio/
 
