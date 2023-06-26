@@ -36,6 +36,9 @@ https://mrmark1127.github.io/Mark-Portfolio/
 My most recent React project [@Mkeefeus](https://github.com/mkeefeus) and I built for our FiveM Server takes a front-end loaded in-game and communicates with a LUA backend to create items in the game based on the player's current inventory. This is the web-only version with an inventory pre-set stored in the assets folder. Red text means the player does not have enough items in their inventory.  
 https://mrmark1127.github.io/nrrp-crafting
 
+A fun aptitude exercise, organizing a data set [(Here)](https://mrmark11273.github.io/Pizza-exercise/orders.json) to show the most popular pizza topping comibnations listed and ordered.  
+https://mrmark11273.github.io/Pizza-exercise
+
 This is an application advertisement website based on Tinder, but for dogs developed with full responsiveness for all available viewports.  
 https://mrmark1127.github.io/tinDog
 
