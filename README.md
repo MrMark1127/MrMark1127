@@ -1,6 +1,6 @@
 # MrMark1127
 👋 Hi, I’m @MrMark1127, but I normally go by Mark!
-- 👀 I’m currently employed as a Technical Service Desk Analyst.
+- 👀 I’m currently searching for my next opportuinity.
 - 🌱 I am currently focused on front-end development using Tailwinds, Bootstrap, vanilla CSS, HTML, Javascript and React. I am taking courses directly focusing on the React framework and I am really enjoying it so far. Check out my projects below!
 - 📫 How to reach me ... If you've reached me via resume, my contact information can be found there.
 
