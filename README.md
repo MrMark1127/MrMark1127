@@ -33,17 +33,20 @@ I am actively developing a website that will host my resume and projects alike b
 https://mrmark1127.github.io/Mark-Portfolio/
 
 ### Latest Projects
+A weather app using an API from [https://openweathermap.org](openweathermap.org) that retrieves and displays informaiton based on the location provided. Practicing with API implementation as well as event listeners and modifdying CSS from JavaSript.  
+https://mrmark1127.github.io/weather-app/
+
 My most recent React project [@Mkeefeus](https://github.com/mkeefeus) and I built for our FiveM Server takes a front-end loaded in-game and communicates with a LUA backend to create items in the game based on the player's current inventory. This is the web-only version with an inventory pre-set stored in the assets folder. Red text means the player does not have enough items in their inventory.  
-https://mrmark1127.github.io/nrrp-crafting
+https://mrmark1127.github.io/nrrp-crafting/
 
 A fun aptitude exercise, organizing a data set [(Here)](https://mrmark1127.github.io/Pizza-exercise/orders.json) to show the most popular pizza topping comibnations listed and ordered.  
-https://mrmark1127.github.io/Pizza-exercise
+https://mrmark1127.github.io/Pizza-exercise/
 
 A small react project dealing with states, creating a to-do list.  
 https://mrmark1127.github.io/keeper-app/
 
 This is an application advertisement website based on Tinder, but for dogs developed with full responsiveness for all available viewports.  
-https://mrmark1127.github.io/tinDog
+https://mrmark1127.github.io/tinDog/
 
 This was just a fun javascript project to manipualte elements and practice with event listeners to create a neat online drum kit you can use by clicking the boxes or pressing the coordinated keys.  
 https://mrmark1127.github.io/Drum-Kit/
