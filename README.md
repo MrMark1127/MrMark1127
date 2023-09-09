@@ -1,8 +1,5 @@
 # MrMark1127
-👋 Hi, I’m @MrMark1127, but I normally go by Mark!
-- 👀 I’m currently searching for my next opportuinity.
-- 🌱 I am currently focused on front-end development using Tailwinds, Bootstrap, vanilla CSS, HTML, Javascript and React. I am taking courses directly focusing on the React framework and I am really enjoying it so far. Check out my projects below!
-- 📫 How to reach me ... If you've reached me via resume, my contact information can be found there.
+👋 Hi, I’m @MrMark1127, but I normally go by Mark! Have a look around!
 
 ## Languages & Tools
 <img align="center" alt="HTML5" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />&nbsp;&nbsp;</a>
